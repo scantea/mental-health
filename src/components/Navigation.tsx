@@ -10,7 +10,7 @@ function Navigation(): JSX.Element {
         fixed="top"
         >
             <Container>
-                <Navbar.Brand href="/home">
+                <Navbar.Brand href="/">
                     Daily Care
                 </Navbar.Brand>
                 <Nav.Link href="#CBT">CBT</Nav.Link>
