@@ -4,7 +4,7 @@ import homeImage3 from '../assets/images/homeThree.png'
 import { Card } from 'react-bootstrap';
 import Button from 'react-bootstrap/Button';
 
-
+//will update to map over card content
 function Home():JSX.Element {
     return (
         <div className="homepage">
