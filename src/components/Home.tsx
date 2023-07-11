@@ -23,7 +23,7 @@ function Home():JSX.Element {
                     <Card.Title>Interested in Meditation and Mindfulness?</Card.Title>
                     <Card.Text>Breathing Excercises can have an immediate impact on your nervous system</Card.Text>
                     <Card.Text>Check out some tips!</Card.Text>
-                    <Button>Breathing Excersizes</Button>
+                    <Button>Breathing Excercises</Button>
                 </Card.ImgOverlay>
             </Card>
             <Card className='cardThree'style={{height:500}}>
